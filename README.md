@@ -1,4 +1,4 @@
-The env file here is a placeholder; it should function well enough for a local build. 
+The env file here is a placeholder; it should function well enough for a local build. This application is not currently in production.
 
 ```
 POSTGRES_DB=usm
